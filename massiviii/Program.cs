@@ -10,7 +10,7 @@ namespace massiviii
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {//лялялял
             int[] numbers = new int[15];
             Random random = new Random();
             for (int i = 0; i < numbers.Length; i++)
